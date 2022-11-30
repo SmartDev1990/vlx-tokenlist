@@ -35,6 +35,22 @@
     "logoURI": "https://raw.githubusercontent.com/smartdev1990/default-token-list/main/assets/tokens/VELAS/0xe2C120f188eBd5389F71Cf4d9C16d05b62A58993/logo.png"
   },
   {
+    "name": "WagyuSwap",
+    "symbol": "WAG",
+    "address": "0xaBf26902Fd7B624e0db40D31171eA9ddDf078351",
+    "chainId": 106,
+    "decimals": 18,
+    "logoURI": "https://github.com/wagyuswapapp/assets/blob/master/blockchains/velas/assets/0xabf26902fd7b624e0db40d31171ea9dddf078351/logo.png?raw=true"
+  },
+  {
+      "chainId": 106,
+      "address": "0x2B8e9cD44C9e09D936149549a8d207c918ecB5C4",
+      "decimals": 18,
+      "name": "Binance",
+      "symbol": "BNB",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x264c1383EA520f73dd837F915ef3a732e204a493/logo_24.png"
+    },
+  {
     "name": "Tether USD",
     "symbol": "USDT",
     "address": "0x01445C31581c354b7338AC35693AB2001B50b9aE",
