@@ -40,7 +40,7 @@
     "address": "0xaBf26902Fd7B624e0db40D31171eA9ddDf078351",
     "chainId": 106,
     "decimals": 18,
-    "logoURI": "https://github.com/wagyuswapapp/assets/blob/master/blockchains/velas/assets/0xabf26902fd7b624e0db40d31171ea9dddf078351/logo.png?raw=true"
+    "logoURI": "https://raw.githubusercontent.com/wagyuswapapp/assets/blob/master/blockchains/velas/assets/0xabf26902fd7b624e0db40d31171ea9dddf078351/logo.png"
   },
   {
       "chainId": 106,
